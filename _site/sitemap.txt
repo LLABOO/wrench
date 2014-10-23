@@ -1,0 +1,13 @@
+
+http://wrvcweb.github.io/jekyllweb/archive.html
+http://wrvcweb.github.io/jekyllweb/atom.xml
+http://wrvcweb.github.io/jekyllweb/categories.html
+http://wrvcweb.github.io/jekyllweb/index.html
+http://wrvcweb.github.io/jekyllweb/pages.html
+http://wrvcweb.github.io/jekyllweb/rss.xml
+http://wrvcweb.github.io/jekyllweb/sitemap.txt
+http://wrvcweb.github.io/jekyllweb/tags.html
+
+http://wrvcweb.github.io/jekyllweb/jekyll/update/2014/10/07/welcome-to-jekyll
+http://wrvcweb.github.io/jekyllweb/jekyll/update/2/2014/10/07/testing-site-points
+http://wrvcweb.github.io/jekyllweb/lessons/2011/12/29/jekyll-introduction
